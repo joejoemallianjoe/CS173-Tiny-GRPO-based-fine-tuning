@@ -9,6 +9,7 @@ Given an arbitrary string, count the number of vowels in it.
 - 0.0 reward is given if the model does not output the correct number of vowels.
 
 ## Roadmap
-- [ ] Cross-check code with multiple LLMs
-- [ ] Implement unit tests to ensure correctness
-- [ ] Initiate first training run
+- [x] Audit code
+- [x] Implement unit tests to ensure correctness
+- [x] Initiate first training run
+- [ ] Change reward function and add changes to prompt for second training run
